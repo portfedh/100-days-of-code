@@ -18,13 +18,13 @@
 
 **Link(s) to work**: [Calculator App](http://www.example.com)
 
+=============================================================
 
-### Day 1: June 27, Monday
+### Day 1: July 25, 2022
 
-**Today's Progress**: I've gone through many exercises on FreeCodeCamp.
+**Today's Progress**:  I refactored a function for the irr calculations in the grafana portfolio and updated the files that calls it. 
 
-**Thoughts** I've recently started coding, and it's a great feeling when I finally solve an algorithm challenge after a lot of attempts and hours spent.
+**Thoughts** Im breaking down the function so it can support an unlimited amount of arguments, since it was originally hardcoded for two bank accounts. In the same process, im breaking every function into smaller more atomic functions and realizing that if I organize the inputs a little better, I can re-use many of them. 
 
 **Link(s) to work**
-1. [Find the Longest Word in a String](https://www.freecodecamp.com/challenges/find-the-longest-word-in-a-string)
-2. [Title Case a Sentence](https://www.freecodecamp.com/challenges/title-case-a-sentence)
+1. [Grafana Portfolio](https://github.com/portfedh/portfolio_grafana)
