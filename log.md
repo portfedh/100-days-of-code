@@ -42,7 +42,7 @@
 
 **Today's Progress**:  Finished simplifying irr functions. Also updated run files to run from MacOs and Linux. Made a change to pull latest docker image before running. 
 
-**Thoughts**   
+**Thoughts** Creating run files for linux and Mac allows for testing the code in different platforms. Since i've been developing in both, I realized that the docker image needs to be pulled down to get the latest version before running. 
 
 **Link(s) to work**
 1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
