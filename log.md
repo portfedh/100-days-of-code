@@ -37,3 +37,12 @@
 
 **Link(s) to work**
 1. [Grafana Portfolio](https://github.com/portfedh/portfolio_grafana)
+
+### Day 2: July 27, 2022
+
+**Today's Progress**:  Finished simplifying irr functions. Also updated run files to run from MacOs and Linux. Made a change to pull latest docker image before running. 
+
+**Thoughts**   
+
+**Link(s) to work**
+1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
