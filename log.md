@@ -28,3 +28,12 @@
 
 **Link(s) to work**
 1. [Grafana Portfolio](https://github.com/portfedh/portfolio_grafana)
+
+### Day 2: July 26, 2022
+
+**Today's Progress**:  Im brekaing up another function for the irr calculations into smaller functions to be able to unit test. Work in progress.  
+
+**Thoughts** Smaller functions provide more reusablity and testability. Doing this is good practice, and a little tedious. I wish I could do this faster.  
+
+**Link(s) to work**
+1. [Grafana Portfolio](https://github.com/portfedh/portfolio_grafana)
