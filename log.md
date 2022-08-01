@@ -20,7 +20,7 @@
 
 =============================================================
 
-### Day 1: July 25, 2022
+### Day 1: July 26, 2022
 
 **Today's Progress**:  I refactored a function for the irr calculations in the grafana portfolio and updated the files that calls it. 
 
@@ -29,7 +29,7 @@
 **Link(s) to work**
 1. [Grafana Portfolio](https://github.com/portfedh/portfolio_grafana)
 
-### Day 2: July 26, 2022
+### Day 2: July 27, 2022
 
 **Today's Progress**:  Im brekaing up another function for the irr calculations into smaller functions to be able to unit test. Work in progress.  
 
@@ -38,11 +38,38 @@
 **Link(s) to work**
 1. [Grafana Portfolio](https://github.com/portfedh/portfolio_grafana)
 
-### Day 2: July 27, 2022
+### Day 3: July 28, 2022
 
 **Today's Progress**:  Finished simplifying irr functions. Also updated run files to run from MacOs and Linux. Made a change to pull latest docker image before running. 
 
 **Thoughts** Creating run files for linux and Mac allows for testing the code in different platforms. Since i've been developing in both, I realized that the docker image needs to be pulled down to get the latest version before running. 
+
+**Link(s) to work**
+1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
+
+### Day 4: July 29, 2022
+
+**Today's Progress**:  Created the first version of the Readme.md
+
+**Thoughts** I kept putting this back because its a bit tedious, but it really helped me define more clearly the goals for the project and how each thing I code aligns with the bigger picture. 
+
+**Link(s) to work**
+1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
+
+### Day 5: July 30, 2022
+
+**Today's Progress**:  Created the first version of the Readme.md
+
+**Thoughts** I kept putting this back because its a bit tedious, but it really helped me define more clearly the goals for the project and how each thing I code aligns with the bigger picture. 
+
+**Link(s) to work**
+1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
+
+### Day 6: July 31, 2022
+
+**Today's Progress**:  Created the first version of the prices file for the IBKR account. 
+
+**Thoughts** Not a lot of coding progress because I had to create the input file. I will do more coding tomorrow. Jupyter notebook is great for testing code before creating a whole script.  
 
 **Link(s) to work**
 1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
