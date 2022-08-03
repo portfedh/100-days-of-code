@@ -1,25 +1,5 @@
 # 100 Days Of Code - Log
 
-### Day 0: February 30, 2016 (Example 1)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts:** I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link to work:** [Calculator App](http://www.example.com)
-
-### Day 0: February 30, 2016 (Example 2)
-##### (delete me or comment me out)
-
-**Today's Progress**: Fixed CSS, worked on canvas functionality for the app.
-
-**Thoughts**: I really struggled with CSS, but, overall, I feel like I am slowly getting better at it. Canvas is still new for me, but I managed to figure out some basic functionality.
-
-**Link(s) to work**: [Calculator App](http://www.example.com)
-
-=============================================================
-
 ### Day 1: July 26, 2022
 
 **Today's Progress**:  I refactored a function for the irr calculations in the grafana portfolio and updated the files that calls it. 
@@ -73,3 +53,18 @@
 
 **Link(s) to work**
 1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
+
+### Day 7: August 2, 2022
+
+**Today's Progress**:  Modified the subtotal script, eliminating the sub-asset allocation functions. These functions will need to be transfered to another script and will now have to consolidate two accounts, the current GBM account and the new IBKR Account. 
+
+**Thoughts** The simple task of adding an extra account to the report is quickly adding complexity to the whole system. Changes will be worth it, since adding more accounts will be now easy, but for now it involes refactoring a lot of code. 
+
+**Link(s) to work**
+1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
+
+### Day 8: August 3, 2022
+
+**Today's Progress**:  Created a subtotals file for the new IBKR Account. 
+
+**Thoughts** I now have two subtotal output csv files where I used to have one (one per each account). I will need to create a new script to consolidate all accounts, or do the consolidation directly in Grafana. Since these changes will break production, I will have to go back and separate the code into a new feature branch. 
