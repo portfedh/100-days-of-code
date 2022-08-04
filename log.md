@@ -68,3 +68,9 @@
 **Today's Progress**:  Created a subtotals file for the new IBKR Account. 
 
 **Thoughts** I now have two subtotal output csv files where I used to have one (one per each account). I will need to create a new script to consolidate all accounts, or do the consolidation directly in Grafana. Since these changes will break production, I will have to go back and separate the code into a new feature branch. 
+
+### Day 9: August 4, 2022
+
+**Today's Progress**:  Separated subtotals per account in one file and subtotals for all accounts in another file
+
+**Thoughts** After a few weeks of adding code, everything is finally working again. Now to document and clean up everything. 
