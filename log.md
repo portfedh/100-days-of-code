@@ -73,4 +73,13 @@
 
 **Today's Progress**:  Separated subtotals per account in one file and subtotals for all accounts in another file
 
-**Thoughts** After a few weeks of adding code, everything is finally working again. Now to document and clean up everything. 
+**Thoughts** After a few weeks of adding code, everything is finally working again. Now to document and clean up everything.
+
+### Day 10: August 5, 2022
+
+**Today's Progress**:  Cleanup of modified scripts. Added short descriptions for all scripts.
+
+**Thoughts** Hard part of this 'sprint' is done. Now to document all changes before making script changes for the first user. After that the next sprint will be to add the third user and see what code changes need to be made. 
+
+**Link(s) to work**
+1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
