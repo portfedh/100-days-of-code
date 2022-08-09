@@ -83,3 +83,12 @@
 
 **Link(s) to work**
 1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
+
+### Day 11: August 8, 2022
+
+**Today's Progress**:  I documented the functions created in past days by adding docstrings to all functions in daily_balance.py
+
+**Thoughts** Documentation is just as hard as coding, just in a different way. Choosing the right words to be descriptive and short is very complicated. Sometimes I feel the function better understood as 5 lines of pure code, instead of 15 with Docstrings. I hope it helps anyone looking at the function without context and that it will help me when I take alook back after some time. 
+
+**Link(s) to work**
+1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
