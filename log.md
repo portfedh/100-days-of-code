@@ -92,3 +92,21 @@
 
 **Link(s) to work**
 1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
+
+### Day 12: August 9, 2022
+
+**Today's Progress**:  I created my home GitHub Markdown page and added some code to display the languages, commits and information that might be useful for someone visiting my profile. 
+
+**Thoughts** Mixed feelings about this. Learning to code is the real goal, so it feels like an unproductive day. On the other hand, to be able to code with others and contibute in larger projects, I need to be able to show other developers what my projects are about, what I can do, and where my interests lie. 
+
+**Link(s) to work**
+1. [Grafana Portfolio Code](https://github.com/portfedh/portfedh)
+
+### Day 12: August 10, 2022
+
+**Today's Progress**:  Starting to update the code for the second user of the portfolio project. 
+
+**Thoughts** Having different users is helpining my with the code, but I feel that there is an underlying problem with the structure of the code. Once its in a more decent state, I will try to show it to someone to get some feedback and see how to restructure it.  
+
+**Link(s) to work**
+1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
