@@ -102,7 +102,7 @@
 **Link(s) to work**
 1. [Grafana Portfolio Code](https://github.com/portfedh/portfedh)
 
-### Day 12: August 10, 2022
+### Day 13: August 10, 2022
 
 **Today's Progress**:  Starting to update the code for the second user of the portfolio project. 
 
@@ -111,11 +111,20 @@
 **Link(s) to work**
 1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
 
-### Day 13: August 13, 2022
+### Day 14: August 11, 2022
+
+**Today's Progress**:  Continued to update the code for the second user of the portfolio project. 
+
+**Thoughts** I finished updating the code for most of the scripts. I only left one script missing which I changed in a bigger way. I plan to update this when I have more energy to make sure I have as few bugs as possible. Its working out better than I thought. 
+
+**Link(s) to work**
+1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
+
+### Day 15: August 13, 2022
 
 **Today's Progress**:  Updated all files for second user 
 
-**Thoughts** Updating for a second user allowed me to find some minor bugs and improve the code. Readability is improving and the structure is getting cleaner. Next up. Debugging for both users. 
+**Thoughts** Finished updating python script for the second user. Updating for a second user allowed me to find some minor bugs and improve the code. Readability is improving and the structure is getting cleaner. Next up. Debugging for both users. 
 
 **Link(s) to work**
 1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
