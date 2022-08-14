@@ -110,3 +110,12 @@
 
 **Link(s) to work**
 1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
+
+### Day 13: August 13, 2022
+
+**Today's Progress**:  Updated all files for second user 
+
+**Thoughts** Updating for a second user allowed me to find some minor bugs and improve the code. Readability is improving and the structure is getting cleaner. Next up. Debugging for both users. 
+
+**Link(s) to work**
+1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
