@@ -128,3 +128,22 @@
 
 **Link(s) to work**
 1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
+
+
+### Day 16: August 14, 2022
+
+**Today's Progress**:  Added a post to my blog, learnt about greedy algorithms and debugged the changes I made on my project
+
+**Thoughts** Just as I was finishing up I found one more function to refactor. Ill get it tomorrow. 
+
+**Link(s) to work**
+1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
+
+### Day 17: August 15, 2022
+
+**Today's Progress**:  Refactored the last complex function into several simpler ones for unit testing. 
+
+**Thoughts** This part of coding feels like a will contest. A bit boring but very important. After I finish refactoring this, another hard thing: Im going to check all of the functions in all the scripts to see if some are reduntant and can be deleted. Then on to unit tests. 
+
+**Link(s) to work**
+1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
