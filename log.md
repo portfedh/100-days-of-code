@@ -147,3 +147,12 @@
 
 **Link(s) to work**
 1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
+
+### Day 18: August 18, 2022
+
+**Today's Progress**:  Refactored more functions.Realized there is a lot more refactoring to be done. Added documentation to the simpified functions. 
+
+**Thoughts** After spending a while adding docstrings and typehints to the functions, I realized that there are other files which will also need to be Refactored. I estimate it will take about two weeks of doing this before im done. This is too long. Its important for unit tests, but its tedious work and I wont learn a lot by doing it. I will switch to other tasks and slowly try to refactor a bit of code everyday until im done. Starting to use hithub issues  and Jira to manage my to dos.
+
+**Link(s) to work**
+1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
