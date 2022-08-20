@@ -156,3 +156,11 @@
 
 **Link(s) to work**
 1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
+
+## Day 19: August 19, 2022
+
+**Today's Progress**:  Spent today trying to get a relative price sql query to work in Grafana. 
+
+**Thoughts** On the first version of the Grafana dashboard I used InfluxDB. Since it's a more niche database, I decided to switch it for MySQL so I could learn more about it. Now Im trying to get a Query to work. Its MySQL, but it also uses grafanas local variables, so its hard to google for help. I know Ill get it eventually. 
+
+
