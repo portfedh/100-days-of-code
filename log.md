@@ -163,4 +163,14 @@
 
 **Thoughts** On the first version of the Grafana dashboard I used InfluxDB. Since it's a more niche database, I decided to switch it for MySQL so I could learn more about it. Now Im trying to get a Query to work. Its MySQL, but it also uses grafanas local variables, so its hard to google for help. I know Ill get it eventually. 
 
+## Day 20: August 20, 2022
 
+**Today's Progress**:  Spent another day figuring the relative price sql query to work in Grafana. No luck yet.
+
+**Thoughts** I parsed the SQL querry and googled all the information to try to understand how it works. Partially succeded. Wrote several queries to try out but none worked. I wish there was an SQL debugger that could help out more to understand why querries fail.
+
+## Day 21: August 21, 2022
+
+**Today's Progress**:  Changed task to take a break. Experimented with ways to keep user files in folders and running them from there instead of the root folder. Import sys worked, but since I use more than one computer to code, its not a good solution. I figured I could create an import file for each user at the root directory and import from there. Im going to give it a try in a new branch. 
+
+**Thoughts** I parsed the SQL querry and googled all the information to try to understand how it works. Partially succeded. Wrote several queries to try out but none worked. I wish there was an SQL debugger that could help out more to understand why querries fail.
