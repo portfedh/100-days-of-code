@@ -174,3 +174,41 @@
 **Today's Progress**:  Changed task to take a break. Experimented with ways to keep user files in folders and running them from there instead of the root folder. Import sys worked, but since I use more than one computer to code, its not a good solution. I figured I could create an import file for each user at the root directory and import from there. Im going to give it a try in a new branch. 
 
 **Thoughts** I parsed the SQL querry and googled all the information to try to understand how it works. Partially succeded. Wrote several queries to try out but none worked. I wish there was an SQL debugger that could help out more to understand why querries fail.
+
+## Day 22: August 22, 2022
+
+**Today's Progress**:  I tried several ways of using the __init__.py files in the scripts package as well as the user files with no success. 
+
+**Thoughts** No tangible progress today, but that can happen sometimes
+
+## Day 23 and 24: August 23 & 24, 2022
+
+**Today's Progress**:  Learnt how to properlly use the __init__ file and how to update the sys.path in two 12 hour sessions. 
+
+**Thoughts** I didnt really touch the project today, mainly it was learning, but I think I know how to solve the problem now. I found an excellent explanation online on a medium article by Dr. Varshita Sher. I read it once, went a second time coding everything, and a third time playing arround with the code. I think Ill get it. 
+
+## Day 25: August 25, 2022
+
+**Today's Progress**:  No coding today. I worked on a blog post documenting in detail the CurrentSensorsMQTT project. 
+
+**Thoughts** I worked on my blogpost. Got the explanations done in a first draft. Im finding documentation harder than coding sometimes. 
+
+## Day 26: August 26, 2022
+
+**Today's Progress**:  Added images to the blogpost. First draft finished. Need to review text and follow SEO rules before publishing. I also used what I learnt and finally solved the problem. Merged the new branch. Now user files dont need to be run in root file anymore. 
+
+**Thoughts** It took a long time to understand, but the changes in code were not very long. It was an important milestone. I feel proud of myself. 
+
+
+
+
+
+
+
+
+
+
+
+
+
+
