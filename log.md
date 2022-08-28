@@ -199,16 +199,11 @@
 
 **Thoughts** It took a long time to understand, but the changes in code were not very long. It was an important milestone. I feel proud of myself. 
 
+## Day 27: August 27, 2022
 
+**Today's Progress**:  Explored Github and the things you can do there. Created a Security Policy file. Learnt how Dependabot works, fixed an issue and merged Dependabots pull request. Added a code scanning alert and added branch protection rules. 
 
+**Thoughts** Today I worked a long time in the Wordpress blog post for the CurrentSensorProject. I reviewed the text, finished adding images and then went over all the SEO recomendations for writing an effective blog post. It's a very interesting subject. Im hoping to learn more about it later. I didnt feel like I could concentrate on hard coding problems, so I spent the time learning and poking arround all the things you can do in a Github repository. I remember when I started coding, GitHub felt very alien, but its starting to get more familiar. Im enjoying my coding time more and more every day. Its definatelly something I now look forward to. Next up. Learning GitHub Actions and adding Unit testing to the code. 
 
-
-
-
-
-
-
-
-
-
-
+**Link(s) to work**
+1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
