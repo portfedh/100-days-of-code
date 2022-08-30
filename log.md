@@ -207,3 +207,13 @@
 
 **Link(s) to work**
 1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
+
+
+## Day 28: August 28, 2022
+
+**Today's Progress**:  Created the first unit tests for the portfolio visualizer. 
+
+**Thoughts** I spent a really long time refreshing how to unit test and deciding where to start. I started by the script functions and discovered I should create another module for input validation. I also spent a long time understanding how to unit test a pandas dataframe. In the end I was able to finish. This was a good milestone and I feel very good about it. 
+
+**Link(s) to work**
+1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
