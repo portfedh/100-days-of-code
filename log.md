@@ -208,12 +208,30 @@
 **Link(s) to work**
 1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
 
-
 ## Day 28: August 28, 2022
+
+**Today's Progress**:  Published my fist long form blogpost of how I made an energy monitor during the pandemic. 
+
+**Thoughts** It took several days to write the post, and then another couple of days to get the site to pass the basic SEO tests in wordpress. I finally published and sent it to several friends to check out. I got immediate feedback from my girlfriend: Fix the images to make them look professional. It feels very rewarding to put your stuff out there. 
+
+**Link(s) to work**
+1. [IoT Energy Monitor](https://pablocruz.io/iot-energy-monitor/)
+
+
+## Day 29: August 29, 2022
 
 **Today's Progress**:  Created the first unit tests for the portfolio visualizer. 
 
 **Thoughts** I spent a really long time refreshing how to unit test and deciding where to start. I started by the script functions and discovered I should create another module for input validation. I also spent a long time understanding how to unit test a pandas dataframe. In the end I was able to finish. This was a good milestone and I feel very good about it. 
+
+**Link(s) to work**
+1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
+
+## Day 30: August 30, 2022
+
+**Today's Progress**:  Created the second unit tests for the portfolio visualizer. 
+
+**Thoughts** I started working on the tests for the second script: irr_calculations.py. I found an issue that needs correcting in a function (It requires as CSV as an input) and then ran into the huge mess of comparing dateTime variables. Turns out they can have the same date and different time and you wouldnt know if its not in long format. I was able to fix it, and so Im in my way again. A productive day. 
 
 **Link(s) to work**
 1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
