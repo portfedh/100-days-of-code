@@ -235,3 +235,12 @@
 
 **Link(s) to work**
 1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
+
+## Day 31: September 1, 2022
+
+**Today's Progress**:  Finished adding all unit tests for irr functions. 
+
+**Thoughts**Unit testing is very helpfull. Besides testing, it also creates an explanation of what the code should output. This can help someone understand the purpose of the function with a working example. In my case, it also allowed me to check that my functions are simple and testable. I also discovered that dealing with pandas dateTime in the index column can get complicated easily. Happy to be making progress slowly. 
+
+**Link(s) to work**
+1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
