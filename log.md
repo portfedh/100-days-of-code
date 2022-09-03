@@ -244,3 +244,12 @@
 
 **Link(s) to work**
 1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
+
+## Day 32: September 2, 2022
+
+**Today's Progress**:  Created unit tests for daily_shares.py 
+
+**Thoughts**Today i read an in depth article by Real Python about unit testing, integration testing and test driven development. It makes a lot of sense. As I created the test for the first function in daily_shares.py I realized there are several consistency problems that needed to be adressed, and some refactoring. Its a slow process, but the code ends up more readable, better organized and much less error prone. Now that im getting a better idea of how they work, I also realize why developing tests as you write code is a much better solution than first writing and then refactoring. Im also understanding the importance of CI CD pipeline and automated testing. Im going to learn more about it soon. The whole thing is a very good idea. I wonder how this kind of processes could be implemented to non software development (architecture, engineering, manufacturing, etc).
+
+**Link(s) to work**
+1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
