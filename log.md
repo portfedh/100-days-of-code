@@ -253,3 +253,13 @@
 
 **Link(s) to work**
 1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
+
+
+## Day 33: September 3, 2022
+
+**Today's Progress**:  Created second unit test for daily_shares.py 
+
+**Thoughts** While working on todays unit test I noticed that the function could be improved. It needed to output information in ascending order, as an integer, and with the index column labeled. I made the modifications and then made the unit test. Timestamps are complicated, since two equally looking timestamps can have different frequencies. Fortunately I was able to finish the test. Just one more python file to go. 
+
+**Link(s) to work**
+1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
