@@ -273,8 +273,19 @@
 **Link(s) to work**
 1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
 
+## Day 35: September 5, 2022
 
+**Today's Progress**:  No coding today. A planning day.  
 
+**Thoughts** Today I went over all my to do's, my learning notes and my learning list. I organized what I need to learn, what I want to do with my blog next and what needs to be done to finish my current project. Then I went over my goals for the week for those three things. I feel much better now that I have a set goal again. 
+
+This weeks Goals:
+    - Project: Portfolio grafana. Finish unit tests and set up github actions to run then after every commit. 
+    - Project: Fundamental analyisis. Update code to V2 and make sure it runs correctly. 
+    - Blog:Correct language for current sensor post. 
+    - Blog: Create first draft of Fundamental Analysis post
+    - Learning: Set up newsboat, remoteit connection, and fix ulauncher
+    - Learning: Make a summary of Alice & Bob learn application security
 
 
 
