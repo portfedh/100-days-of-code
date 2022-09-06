@@ -263,3 +263,18 @@
 
 **Link(s) to work**
 1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
+
+## Day 34: September 4, 2022
+
+**Today's Progress**:  Renamed function in daily_shares.py and refactored.  
+
+**Thoughts** Finished all the minor style changes to made code more readable. It was a sunday and I was not in my most productive setup, so coding was a bit low. I also have too many activities, so I have to reorganize to see where Im at and re prioritize. 
+
+**Link(s) to work**
+1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
+
+
+
+
+
+
