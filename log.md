@@ -273,7 +273,7 @@
 **Link(s) to work**
 1. [Grafana Portfolio Code](https://github.com/portfedh/portfolio_grafana)
 
-## Day 35: September 5, 2022
+## Break: September 5, 2022
 
 **Today's Progress**:  No coding today. A planning day.  
 
@@ -287,5 +287,18 @@ This weeks Goals:
     - Learning: Set up newsboat, remoteit connection, and fix ulauncher
     - Learning: Make a summary of Alice & Bob learn application security
 
+
+## Day 35: September 6, 2022
+**Today's Progress**:  Fixed some issues in unit tests. Learning day
+
+**Thoughts** Today I learnt how to run Unit Tests from VsCode, as well as adding a pre-commit hooks in Git to automatically unit test before adding a commit. 
+
+This weeks Goals:
+    - Project: Portfolio grafana. Finish unit tests and set up github actions to run then after every commit. 
+    - Project: Fundamental analyisis. Update code to V2 and make sure it runs correctly. 
+    - Blog:Correct language for current sensor post. 
+    - Blog: Create first draft of Fundamental Analysis post
+    - Learning: Set up newsboat, remoteit connection, and fix ulauncher
+    - Learning: Make a summary of Alice & Bob learn application security
 
 
