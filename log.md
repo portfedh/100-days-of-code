@@ -293,12 +293,11 @@ This weeks Goals:
 
 **Thoughts** Today I learnt how to run Unit Tests from VsCode, as well as adding a pre-commit hooks in Git to automatically unit test before adding a commit. 
 
-This weeks Goals:
-    - Project: Portfolio grafana. Finish unit tests and set up github actions to run then after every commit. 
-    - Project: Fundamental analyisis. Update code to V2 and make sure it runs correctly. 
-    - Blog:Correct language for current sensor post. 
-    - Blog: Create first draft of Fundamental Analysis post
-    - Learning: Set up newsboat, remoteit connection, and fix ulauncher
-    - Learning: Make a summary of Alice & Bob learn application security
+## Day 36: September 7, 2022
+**Today's Progress**:  Finished configuring git pre-commit hook to run all tests befor every commit. 
+
+**Thoughts** Yesterday I managed to run all tests from VSCode with a click. I wanted to automatically run them before each commit, so I found out about Git Hooks. I tried configuring the pre-commit hook but kept getting errors. To solve it, I re-read over how __init__.py files work, but that was not the issue. When I realized the problem was the VENV, I spent a while figuring out how to set it up. I succedeed. I also decided to keep a copy in the root file to backup and keep it in version control. This was the post that inspired me. 
+
+   https://www.giacomodebidda.com/posts/a-simple-git-hook-for-your-python-projects/
 
 
