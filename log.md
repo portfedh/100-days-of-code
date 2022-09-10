@@ -301,8 +301,13 @@ This weeks Goals:
    https://www.giacomodebidda.com/posts/a-simple-git-hook-for-your-python-projects/
 
 ## Day 37: September 8, 2022
-**Today's Progress**:  Created new test: test_daily_balance.py 
+**Today's Progress**:  Created new test: test_daily_balance.py -- create_df(file_name)
 
 **Thoughts** I created a new test for the first function in daily_balance.py. The functions name is create_df(). It takes a string with a csv filename as input and outputs a dataframe made out of that csv. To avoid having to deal with external files, I learnt how to use unittest.mock by adding @mock.patch and a return value within the test function. I was able to get it to work correctly, but the logic behind decorators is something I still dont understand. Still its good to know how to use it. This is the link to the video that helped me learn how to do it. 
 
     https://www.youtube.com/watch?v=WFRljVPHrkE
+
+## Day 38: September 9, 2022
+**Today's Progress**:  Created new test: test_daily_balance.py -- test_daily_balance()
+
+**Thoughts** As I have more tests, I also have a larger number of examples where I get mock data, and testing code, so I see improvement. I also know that there is repetitive code here. Some of the functions do almost the same things. Once everything is tested, I will go over it again and refactor to avoid repeating myself. Yesterday I had a long work day, and It was very hard to force myself to code today. 
