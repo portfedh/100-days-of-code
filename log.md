@@ -321,3 +321,11 @@ https://www.youtube.com/watch?v=WFRljVPHrkE
 [test_add_total_column()](https://github.com/portfedh/portfolio_grafana/commit/52eeee7aba6baf9c350bb2851c22fb797ebc5c96)
 [test_add_df()](https://github.com/portfedh/portfolio_grafana/commit/634150110f65865775ce9c01ea566ef44d539554)
 
+
+## Day 40: September 12, 2022
+**Today's Progress**:  Switched project to Fundamental Analysis. Rewriting code. 
+
+**Thoughts** After a short break, I need to continue adding posts to my blog with my portfolio. The Grafana Portfolio Project still has a while to go before I can add it, so I had to look for other projects to include. I have several small projects which I could add, but I think that I should probably be starting with my most important projects, in case I run out of time. I decided to add my fundamental analysis report next. This is a very cool project, but my first version was full of mistakes. I corrected the scripts in another project (stock screener), but now I have to get the second version to work for this project to be able to showcase it as a portfolio project. Im working on refactoring code. I hope Ill be able to add it soon. 
+
+[Second version: Fundamental Analysis PDF. Work in progress](https://github.com/portfedh/fundamental_analysis_report/commit/781ec7c8b46d53f5afa0c4390b41c2a059b1cb28)
+
