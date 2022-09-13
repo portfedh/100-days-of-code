@@ -325,7 +325,14 @@ https://www.youtube.com/watch?v=WFRljVPHrkE
 ## Day 40: September 12, 2022
 **Today's Progress**:  Switched project to Fundamental Analysis. Rewriting code. 
 
-**Thoughts** After a short break, I need to continue adding posts to my blog with my portfolio. The Grafana Portfolio Project still has a while to go before I can add it, so I had to look for other projects to include. I have several small projects which I could add, but I think that I should probably be starting with my most important projects, in case I run out of time. I decided to add my fundamental analysis report next. This is a very cool project, but my first version was full of mistakes. I corrected the scripts in another project (stock screener), but now I have to get the second version to work for this project to be able to showcase it as a portfolio project. Im working on refactoring code. I hope Ill be able to add it soon. 
+**Thoughts** After a short break, I need to continue adding posts to my blog . The Grafana Portfolio Project still has a while to go before I can add it, so I had to look for other projects to include. I have several small projects which I could add, but I think that I should probably be starting with my most important projects in case I run out of time. I decided to add my fundamental analysis report next. This is a very cool project but my first version had several mistakes. I corrected the script in another project (stock screener), but now I have to get the changes from the second version to work to showcase it in my portfolio. Im working on refactoring code. I hope Ill be able to add it soon. 
 
 [Second version: Fundamental Analysis PDF. Work in progress](https://github.com/portfedh/fundamental_analysis_report/commit/781ec7c8b46d53f5afa0c4390b41c2a059b1cb28)
 
+
+## Day 41: September 13, 2022
+**Today's Progress**:  Fundamental Analysis Code almost updated. Images and tables done. PDF generation next. 
+
+**Thoughts** Updating the code has been a mixed bag. The code itself required very small changes, but other things slowed me down. One of the imported libraries (Pillow) has a dependency (Kaleido) which doesnt work for some reason if you use a virtual enviroment. After trying to debug for a while I found this out, so I made an Issue request on github and just installed the packages in my global python. I updated most of the code but then I ran into another problem with FPDF. Some functions have been changed/depricated and I need to fix the code for it not to break in the near future. Hopefully Ill be able to finish tomorrow.  
+
+[Second version: Fundamental Analysis PDF. Graphs and Tables are done]([https://github.com/portfedh/fundamental_analysis_report/commit/781ec7c8b46d53f5afa0c4390b41c2a059b1cb28](https://github.com/portfedh/fundamental_analysis_report/commit/62ae6d4c6b9269b8ce2ed5e800aa2bffa57ddb7c))
