@@ -335,4 +335,4 @@ https://www.youtube.com/watch?v=WFRljVPHrkE
 
 **Thoughts** Updating the code has been a mixed bag. The code itself required very small changes, but other things slowed me down. One of the imported libraries (Pillow) has a dependency (Kaleido) which doesnt work for some reason if you use a virtual enviroment. After trying to debug for a while I found this out, so I made an Issue request on github and just installed the packages in my global python. I updated most of the code but then I ran into another problem with FPDF. Some functions have been changed/depricated and I need to fix the code for it not to break in the near future. Hopefully Ill be able to finish tomorrow.  
 
-[Second version: Fundamental Analysis PDF. Graphs and Tables are done](https://github.com/portfedh/fundamental_analysis_report/commit/781ec7c8b46d53f5afa0c4390b41c2a059b1cb28](https://github.com/portfedh/fundamental_analysis_report/commit/62ae6d4c6b9269b8ce2ed5e800aa2bffa57ddb7c)
+[Second version: Fundamental Analysis PDF. Graphs and Tables are done](https://github.com/portfedh/fundamental_analysis_report/commit/62ae6d4c6b9269b8ce2ed5e800aa2bffa57ddb7c)
