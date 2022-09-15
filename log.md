@@ -336,3 +336,11 @@ https://www.youtube.com/watch?v=WFRljVPHrkE
 **Thoughts** Updating the code has been a mixed bag. The code itself required very small changes, but other things slowed me down. One of the imported libraries (Pillow) has a dependency (Kaleido) which doesnt work for some reason if you use a virtual enviroment. After trying to debug for a while I found this out, so I made an Issue request on github and just installed the packages in my global python. I updated most of the code but then I ran into another problem with FPDF. Some functions have been changed/depricated and I need to fix the code for it not to break in the near future. Hopefully Ill be able to finish tomorrow.  
 
 [Second version: Fundamental Analysis PDF. Graphs and Tables are done](https://github.com/portfedh/fundamental_analysis_report/commit/62ae6d4c6b9269b8ce2ed5e800aa2bffa57ddb7c)
+
+
+## Day 42: September 14, 2022
+**Today's Progress**:  Fundamental Analysis Version 2 Ready.  
+
+**Thoughts** Code was updated and ready. It looks much cleaner and I was happy to be able to set it up. There are lots of possible improvements I noticed and several new bugs I found, but it works for now. Ill clean them up slowly. Now that its done, its time to get back to finishing the grafana portfolio and to create a blog post showcasing the project.   
+
+[Second version: Fundamental Analysis PDF. Ready and Merged](https://github.com/portfedh/fundamental_analysis_report/commit/0e584ba59a6ccb6005df278a4029547f8c0f1f31)
