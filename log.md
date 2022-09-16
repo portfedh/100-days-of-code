@@ -344,3 +344,11 @@ https://www.youtube.com/watch?v=WFRljVPHrkE
 **Thoughts** Code was updated and ready. It looks much cleaner and I was happy to be able to set it up. There are lots of possible improvements I noticed and several new bugs I found, but it works for now. Ill clean them up slowly. Now that its done, its time to get back to finishing the grafana portfolio and to create a blog post showcasing the project.   
 
 [Second version: Fundamental Analysis PDF. Ready and Merged](https://github.com/portfedh/fundamental_analysis_report/commit/0e584ba59a6ccb6005df278a4029547f8c0f1f31)
+
+
+## Day 43: September 15, 2022
+**Today's Progress**:  Finished Unit Tests for Portfolio Grafana.  
+
+**Thoughts** Unit tests were finished and code was tested and is working. Reviewed a bit of the best practices for merging, forking, and deleting branches. Everything is slowly starting to click. Now to solve the pending issues and eliminate duplicate functions.   
+
+[Portfolio Grafana: Merged Unit Tests](https://github.com/portfedh/portfolio_grafana/commit/c915131ea7b844bbf8c1a6f5730aad53870ddb77)
