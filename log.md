@@ -352,3 +352,16 @@ https://www.youtube.com/watch?v=WFRljVPHrkE
 **Thoughts** Unit tests were finished and code was tested and is working. Reviewed a bit of the best practices for merging, forking, and deleting branches. Everything is slowly starting to click. Now to solve the pending issues and eliminate duplicate functions.   
 
 [Portfolio Grafana: Merged Unit Tests](https://github.com/portfedh/portfolio_grafana/commit/c915131ea7b844bbf8c1a6f5730aad53870ddb77)
+
+
+## Break: September 16, 2022
+
+**Today's Progress**:  No coding today. Worked on the next blog post and was to tired to code.  
+
+## Day 44: September 17, 2022
+**Today's Progress**:  Started refactoring functions in grafana portfolio
+
+**Thoughts** Today I spell checked all the code. When writing unit tests I notices some of the functions were being duplicated, so I refactored the code to eliminate duplication. Tomorrow I will make sure all function names and descriptions are clear and up to date, both for functions and tests. The code starts to look better and better with every pass. 
+
+[Portfolio Grafana: Spelling corrections ](https://github.com/portfedh/portfolio_grafana/commit/1769aa9eb033a851b7723bd609f9b08c5047738a)
+[Portfolio Grafana: Elimination of duplicate functions](https://github.com/portfedh/portfolio_grafana/commit/239f7f2fabb37cd1dc24108ea3ae8ac9eadb33bb)
