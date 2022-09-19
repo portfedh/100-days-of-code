@@ -372,4 +372,4 @@ https://www.youtube.com/watch?v=WFRljVPHrkE
 
 **Thoughts** Today I refactored all the functions in the grafana portfolio. The process was simpler than I thought, thanks to Visual Studio Code. The IDE is really great and I like it more everyday. What didnt update was the docstrings, module intro and test names, so Im going over everything slowly to update it and clean it up. The code is looking much cleaner and Im very happy Im doing this. Im learning a lot.  
 
-[Portfolio Grafana: Spelling corrections ](https://github.com/portfedh/portfolio_grafana/commit/74b7af057a88fafcab5ae7cabfa85d653d99482c)
+[Portfolio Grafana: Refactored functions ](https://github.com/portfedh/portfolio_grafana/commit/74b7af057a88fafcab5ae7cabfa85d653d99482c)
