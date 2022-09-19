@@ -365,3 +365,11 @@ https://www.youtube.com/watch?v=WFRljVPHrkE
 
 [Portfolio Grafana: Spelling corrections ](https://github.com/portfedh/portfolio_grafana/commit/1769aa9eb033a851b7723bd609f9b08c5047738a)
 [Portfolio Grafana: Elimination of duplicate functions](https://github.com/portfedh/portfolio_grafana/commit/239f7f2fabb37cd1dc24108ea3ae8ac9eadb33bb)
+
+
+## Day 45: September 18, 2022
+**Today's Progress**:  Finished refactoring functions in grafana portfolio.
+
+**Thoughts** Today I refactored all the functions in the grafana portfolio. The process was simpler than I thought, thanks to Visual Studio Code. The IDE is really great and I like it more everyday. What didnt update was the docstrings, module intro and test names, so Im going over everything slowly to update it and clean it up. The code is looking much cleaner and Im very happy Im doing this. Im learning a lot.  
+
+[Portfolio Grafana: Spelling corrections ](https://github.com/portfedh/portfolio_grafana/commit/74b7af057a88fafcab5ae7cabfa85d653d99482c)
