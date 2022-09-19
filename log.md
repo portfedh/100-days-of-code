@@ -373,3 +373,13 @@ https://www.youtube.com/watch?v=WFRljVPHrkE
 **Thoughts** Today I refactored all the functions in the grafana portfolio. The process was simpler than I thought, thanks to Visual Studio Code. The IDE is really great and I like it more everyday. What didnt update was the docstrings, module intro and test names, so Im going over everything slowly to update it and clean it up. The code is looking much cleaner and Im very happy Im doing this. Im learning a lot.  
 
 [Portfolio Grafana: Refactored functions ](https://github.com/portfedh/portfolio_grafana/commit/74b7af057a88fafcab5ae7cabfa85d653d99482c)
+
+
+## Day 46: September 19, 2022
+**Today's Progress**:  Updated docstrings for all functions. Started making docstrings for unit tests. 
+
+**Thoughts** Today I finished updating docstrings for all functions. Everything is clean and makes sense. I started adding docstrings to unit tests. They bring clarity and make the code look more professional. They are overall good habits, but I like more the creation process than the documentation process. The good thing is that once I know how to do it, I will document as I go, and hopefully everything will be easier on the next run. 
+
+[Portfolio Grafana: Updated Docstrings for all functions. ](https://github.com/portfedh/portfolio_grafana/commit/eef6c18c7c663b281f36a1379953bfebfd38a7d1)
+[Portfolio Grafana: Add docstrings to test_daily_balance.py ](https://github.com/portfedh/portfolio_grafana/commit/966db63b1ef63401cfc353a6eab8f98dc2944a84)
+
