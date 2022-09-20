@@ -383,3 +383,11 @@ https://www.youtube.com/watch?v=WFRljVPHrkE
 [Portfolio Grafana: Updated Docstrings for all functions. ](https://github.com/portfedh/portfolio_grafana/commit/eef6c18c7c663b281f36a1379953bfebfd38a7d1)
 [Portfolio Grafana: Add docstrings to test_daily_balance.py ](https://github.com/portfedh/portfolio_grafana/commit/966db63b1ef63401cfc353a6eab8f98dc2944a84)
 
+
+## Day 47: September 20, 2022
+**Today's Progress**:  Created docstrings for all  unit tests. 
+
+**Thoughts** Today I finished updating docstrings for unit tests. Tomorrow I will try to close as many issues as possible before merging and turning to integration testing. 
+
+[Portfolio Grafana: Add Docstrings for all unit tests. ](https://github.com/portfedh/portfolio_grafana/commit/7e229a2fcc702afef9e1eb0e710961c45e51dc9a)
+
