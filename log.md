@@ -391,3 +391,9 @@ https://www.youtube.com/watch?v=WFRljVPHrkE
 
 [Portfolio Grafana: Add Docstrings for all unit tests. ](https://github.com/portfedh/portfolio_grafana/commit/7e229a2fcc702afef9e1eb0e710961c45e51dc9a)
 
+
+## Day 48: September 22, 2022
+**Today's Progress**:  Made an excel with a realistic mock-up user file for integration testing.
+
+**Thoughts** When starting to make my mock up file, I realized I needed to calculate monthly balances + cash for a fake investment portfolio. To make something coherent which could help as an integration test, I created a file of someone who has a 60/40 portfolio and invests $1,000 dolars per year in that account. It took a while, but I figured out how to do it. Tomorrow I will make another one and will be ready to add the user files and then the integration test. Everything takes so much time! Slowly on my way. 
+
