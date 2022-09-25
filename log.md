@@ -397,3 +397,19 @@ https://www.youtube.com/watch?v=WFRljVPHrkE
 
 **Thoughts** When starting to make my mock up file, I realized I needed to calculate monthly balances + cash for a fake investment portfolio. To make something coherent which could help as an integration test, I created a file of someone who has a 60/40 portfolio and invests $1,000 dolars per year in that account. It took a while, but I figured out how to do it. Tomorrow I will make another one and will be ready to add the user files and then the integration test. Everything takes so much time! Slowly on my way. 
 
+
+## Day 49: September 23, 2022
+**Today's Progress**:  Added my second bit post on my blog: Automating a financial report using python.
+
+**Thoughts** It took a really long time, but I finally published this second project using python. Editing images, adding alt text, reading and re-reading, changing titles. Everything took a very long time. I will probably still make lots of changes to the post in the future, but it was good enough to publish and Im very proud of it. 
+
+[Blog Post: Creating a financial PDF report unsing python. ](https://pablocruz.io/python-financial-report-pdf/)
+
+
+## Day 50: September 24, 2022
+**Today's Progress**:  Reviewed all my Corey Schaffer notes on OOP. 
+
+**Thoughts** I went over my notes on Corey's 6 videos on OOP in python. I had my editor open and kept experimenting with the code and complimenting my notes as I went along to make sure I understood. I feel I have a grasp on the basics. Now I need a lot of exercises to understand the use cases  and get it into muscle memory. 
+
+[OOP Youtube Video Series: Corey Schafer. ](# https://www.youtube.com/watch?v=ZDa-Z5JzLYM&t=73s)
+
