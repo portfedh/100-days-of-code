@@ -413,3 +413,12 @@ https://www.youtube.com/watch?v=WFRljVPHrkE
 
 [OOP Youtube Video Series: Corey Schafer. ](# https://www.youtube.com/watch?v=ZDa-Z5JzLYM&t=73s)
 
+
+## Break. September 25, 2022. Took a break today to finish personal activities. 
+
+## Day 51: September 26, 2022
+**Today's Progress**:  Finished chapter 2 of 'Object Oriented Python'. I also made more mock up user files for the integration tests.
+
+**Thoughts** I started this new book. So far so good. Its explanations are exremely clear and easy to understand. Mock files took a long time, because they need to represent coherent data so the final graphs make sense. I think im ready to add them and write the user code. 
+
+
