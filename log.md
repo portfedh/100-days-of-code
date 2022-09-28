@@ -417,8 +417,13 @@ https://www.youtube.com/watch?v=WFRljVPHrkE
 ## Break. September 25, 2022. Took a break today to finish personal activities. 
 
 ## Day 51: September 26, 2022
-**Today's Progress**:  Finished chapter 2 of 'Object Oriented Python'. I also made more mock up user files for the integration tests.
+**Today's Progress**:  Finished chapter 1 of 'Object Oriented Python'. I also made more mock up user files for the integration tests.
 
 **Thoughts** I started this new book. So far so good. Its explanations are exremely clear and easy to understand. Mock files took a long time, because they need to represent coherent data so the final graphs make sense. I think im ready to add them and write the user code. 
 
+## Day 52: September 27, 2022
+**Today's Progress**:  Added 10 user1 (demo user) script files for the integration tests, using the input files I created previously. 
 
+**Thoughts** Today I started creating all the files to make the user account for the demo user. I did 10 scripts and should be finished tomorrow. Then I will setup the grafana frontend and then start the integration tests. Started chapter 2 of 'Object Oriented Python'. The book is very good. I have a feeling I will end up refactoring my code when I finish it. 
+
+[Add Demo User: 10 Scripts. ](# https://github.com/portfedh/portfolio_grafana/commit/4cc5c65fd083f8db94537aae8fd3c7cd82c651c3)
