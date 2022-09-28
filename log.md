@@ -411,7 +411,7 @@ https://www.youtube.com/watch?v=WFRljVPHrkE
 
 **Thoughts** I went over my notes on Corey's 6 videos on OOP in python. I had my editor open and kept experimenting with the code and complimenting my notes as I went along to make sure I understood. I feel I have a grasp on the basics. Now I need a lot of exercises to understand the use cases  and get it into muscle memory. 
 
-[OOP Youtube Video Series: Corey Schafer. ](# https://www.youtube.com/watch?v=ZDa-Z5JzLYM&t=73s)
+[OOP Youtube Video Series: Corey Schafer. ](https://www.youtube.com/watch?v=ZDa-Z5JzLYM&t=73s)
 
 
 ## Break. September 25, 2022. Took a break today to finish personal activities. 
@@ -426,4 +426,4 @@ https://www.youtube.com/watch?v=WFRljVPHrkE
 
 **Thoughts** Today I started creating all the files to make the user account for the demo user. I did 10 scripts and should be finished tomorrow. Then I will setup the grafana frontend and then start the integration tests. Started chapter 2 of 'Object Oriented Python'. The book is very good. I have a feeling I will end up refactoring my code when I finish it. 
 
-[Add Demo User: 10 Scripts. ](# https://github.com/portfedh/portfolio_grafana/commit/4cc5c65fd083f8db94537aae8fd3c7cd82c651c3)
+[Add Demo User: 10 Scripts. ](https://github.com/portfedh/portfolio_grafana/commit/4cc5c65fd083f8db94537aae8fd3c7cd82c651c3)
