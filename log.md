@@ -427,3 +427,13 @@ https://www.youtube.com/watch?v=WFRljVPHrkE
 **Thoughts** Today I started creating all the files to make the user account for the demo user. I did 10 scripts and should be finished tomorrow. Then I will setup the grafana frontend and then start the integration tests. Started chapter 2 of 'Object Oriented Python'. The book is very good. I have a feeling I will end up refactoring my code when I finish it. 
 
 [Add Demo User: 10 Scripts. ](https://github.com/portfedh/portfolio_grafana/commit/4cc5c65fd083f8db94537aae8fd3c7cd82c651c3)
+
+
+## Break. September 28, 2022. I spent time reading 'Object Oriented Python' but did not code. Finished chapter 2.
+
+## Day 53: September 29, 2022
+**Today's Progress**:  Finished adding script files for the demo user. Read chapter 3.
+
+**Thoughts** Today I finished setting up all files for User1, my demo user. Code works, but I need to make sure the numbers make sense and setup the grafana image to display the information. Once its done it will be time for integration tests. 
+
+[Add Demo User: Finished adding scripts ](https://github.com/portfedh/portfolio_grafana/commit/45c2ee8e990840088372c77a28733dc8f4f92c62)
