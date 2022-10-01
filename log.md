@@ -437,3 +437,14 @@ https://www.youtube.com/watch?v=WFRljVPHrkE
 **Thoughts** Today I finished setting up all files for User1, my demo user. Code works, but I need to make sure the numbers make sense and setup the grafana image to display the information. Once its done it will be time for integration tests. 
 
 [Add Demo User: Finished adding scripts ](https://github.com/portfedh/portfolio_grafana/commit/45c2ee8e990840088372c77a28733dc8f4f92c62)
+
+## Day 54: September 30, 2022
+**Today's Progress**:  First version of Grafana Dashboard for User 1.
+
+**Thoughts** Today I finished the first version of the Grafana Dashboard, using the DemoUsers input. The dashboard looks good. I think there are a couple of bugs in the code, but it generally looks very good. I might have to tweak some things to improve the dashboard end look, but im very happy on how its going. Read part of chapter 4 of my book.
+
+Something tells me Im going to have make a third version of the project using OOP. 
+
+[Add Demo User: First version of the dashboard ](https://twitter.com/Portfedh/status/1576055189525909504?s=20&t=QDClTaLBKKHwHswuJ7BZpw)
+
+
