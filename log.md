@@ -447,4 +447,11 @@ Something tells me Im going to have make a third version of the project using OO
 
 [Add Demo User: First version of the dashboard ](https://twitter.com/Portfedh/status/1576055189525909504?s=20&t=QDClTaLBKKHwHswuJ7BZpw)
 
+## Day 55: October 1, 2022
+**Today's Progress**:  Fixed bug in Grafana Dashboard for demo user. Trying to understand the object manager object in oop.
+
+**Thoughts** Today I corrected the grafana dashboad. I changed variable names, querry names etc. I fixed a bug in the input files and discovered how to use transformations. The dashboard is ready, but I think I'll make some slight changes in the input files to make the dashboard look more interesting. 
+
+[Add Demo User: Dashboard after correcting some bugs ](https://twitter.com/Portfedh/status/1576398237698691072?s=20&t=z897KQDEBaJZITF3Iz0nSQ)
+
 
