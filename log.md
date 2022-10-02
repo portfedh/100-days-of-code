@@ -454,4 +454,10 @@ Something tells me Im going to have make a third version of the project using OO
 
 [Add Demo User: Dashboard after correcting some bugs ](https://twitter.com/Portfedh/status/1576398237698691072?s=20&t=z897KQDEBaJZITF3Iz0nSQ)
 
+## Day 56: October 2, 2022
+**Today's Progress**:  Fixed bugs in Grafana Dashboard tables. Added price graphs and user notes. Starting to use pygame.
+
+**Thoughts** Today I worked more on the grafana dashboad. I added price graphs for the portfolio, added some user notes and changed the graph colors.  
+
+[Add Demo User: Added price graphs](https://twitter.com/Portfedh/status/1576678247013621760?s=20&t=EOFCUbT-RJYXiT3Q_GynDg)
 
