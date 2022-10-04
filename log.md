@@ -461,3 +461,11 @@ Something tells me Im going to have make a third version of the project using OO
 
 [Add Demo User: Added price graphs](https://twitter.com/Portfedh/status/1576678247013621760?s=20&t=EOFCUbT-RJYXiT3Q_GynDg)
 
+
+## Day 57: October 3, 2022
+**Today's Progress**:  Added first input validation tests for user files. Continued using pygame to learn OOP.
+
+**Thoughts** Today I got back to testing. I dediced to start with input validation for the user input files. Got about 1/3 done. Ill set it up so the tests run for the user executing the script. Then I will add integration tests to test the data processing.   
+
+[Add input validation: Check input files](https://github.com/portfedh/portfolio_grafana/commit/29da17e3ec46a12d2613d8c0fc442c83054dba1c)
+
