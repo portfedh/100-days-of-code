@@ -469,3 +469,10 @@ Something tells me Im going to have make a third version of the project using OO
 
 [Add input validation: Check input files](https://github.com/portfedh/portfolio_grafana/commit/29da17e3ec46a12d2613d8c0fc442c83054dba1c)
 
+## Day 58: October 4, 2022
+**Today's Progress**:  Refactored input validations test and made more tests. Continued using pygame to learn OOP.
+
+**Thoughts** Today I got back made some more input validation tests. I also refactored the first code to make sure it runs for any user, before executing the processing scripts. Code units work. I still need to refactor one more time before its done. Maybe more if I want to make functions of it. 
+
+[Add input validation: More input tests](https://github.com/portfedh/portfolio_grafana/commit/ded53f3e092687d466e1aa21e6b61ccbbd7c405d)
+
