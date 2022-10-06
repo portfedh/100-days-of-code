@@ -476,3 +476,7 @@ Something tells me Im going to have make a third version of the project using OO
 
 [Add input validation: More input tests](https://github.com/portfedh/portfolio_grafana/commit/ded53f3e092687d466e1aa21e6b61ccbbd7c405d)
 
+## Day 59: October 5, 2022
+**Today's Progress**:  Improved Input validation
+
+**Thoughts** 
