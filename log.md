@@ -480,3 +480,8 @@ Something tells me Im going to have make a third version of the project using OO
 **Today's Progress**:  Improved Input validation. Read 20 pages of OOP Book. 
 
 **Thoughts** I cleaned up the Input validation Code to improve clarity and avoid repetition. Continued with OOP book. Its starting to get boring. I find no use to learn the intricacies of Pygame, so im having a hard time with my attention span. Im still making progress though. Ill get through it, bit by bit. 
+
+## Day 60: October 7, 2022
+**Today's Progress**:  Merged the Second User branch. Now going to add security to the application.  
+
+**Thoughts** Finished all the example user files. Checked input validation, and fixed a startup problem of MySQL. Now I can show the program with example data. Next, going to implement some security features.
