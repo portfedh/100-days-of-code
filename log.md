@@ -485,3 +485,10 @@ Something tells me Im going to have make a third version of the project using OO
 **Today's Progress**:  Merged the Second User branch. Now going to add security to the application.  
 
 **Thoughts** Finished all the example user files. Checked input validation, and fixed a startup problem of MySQL. Now I can show the program with example data. Next, going to implement some security features.
+
+## Day 61: October 9, 2022
+**Today's Progress**:  Went through OpenSSL and the cryptography library. I chose the latter. 
+
+**Thoughts** Open SSL seems better and more straightforward from the examples I saw. Unfortunatelly, it works a little different in Mac, linux and Windows, and judging from the adjustments I had to make in my Mac, adjusting it if other users start using the program can be challenging. I dediced to go for the library. I figured how to encrypt with a key and with a password. I will play with the library to understand it better and try to figure out best practices to encrypt data at rest. 
+
+[New branch: cryptography ](https://github.com/portfedh/portfolio_grafana/commit/75da8c03e0b6f7bf61b4d7955c43e30ab9204418)
