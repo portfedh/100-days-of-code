@@ -492,3 +492,10 @@ Something tells me Im going to have make a third version of the project using OO
 **Thoughts** Open SSL seems better and more straightforward from the examples I saw. Unfortunatelly, it works a little different in Mac, linux and Windows, and judging from the adjustments I had to make in my Mac, adjusting it if other users start using the program can be challenging. I dediced to go for the library. I figured how to encrypt with a key and with a password. I will play with the library to understand it better and try to figure out best practices to encrypt data at rest. 
 
 [New branch: cryptography ](https://github.com/portfedh/portfolio_grafana/commit/75da8c03e0b6f7bf61b4d7955c43e30ab9204418)
+
+## Day 62: October 10, 2022
+**Today's Progress**:  Wrote my first OOP python script. Created a class that can use a password to encript a users data at rest.  
+
+**Thoughts** I continued with the test scripts to encrypt data. I took the code I had previously made and modified it to use a hidden password prompt instead of a generated Key. Also changed the code and fit it into a Class. This is my first OOP script. Its pretty cool. 
+
+[Created a Cryptography Class: My first OOP script. ](https://github.com/portfedh/portfolio_grafana/commit/6150fa3f084e0f90a0931272a2acb8cc313412a7)
