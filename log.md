@@ -499,3 +499,11 @@ Something tells me Im going to have make a third version of the project using OO
 **Thoughts** I continued with the test scripts to encrypt data. I took the code I had previously made and modified it to use a hidden password prompt instead of a generated Key. Also changed the code and fit it into a Class. This is my first OOP script. Its pretty cool. 
 
 [Created a Cryptography Class: My first OOP script. ](https://github.com/portfedh/portfolio_grafana/commit/6150fa3f084e0f90a0931272a2acb8cc313412a7)
+
+
+## Day 63: October 11, 2022
+**Today's Progress**:  Tweaked the cryptography script and made another script to call the script and encrypt and decrypt al user files. 
+
+**Thoughts** Im starting to understand the power of OOP. Code is much cleaner than in the functional version (at least so far it has). I moved the cryptography script from the tests folder to the scripts folder and made another script to call the class and encrypt/decrypt all user files at rest. Its almost ready. I only need to call this second script in the initialization file for program and it will be finished. 
+
+[Cryptography scripts ready. ](https://github.com/portfedh/portfolio_grafana/commit/08da6c86c4ca322c1d07a649623aa59893c8245f)
