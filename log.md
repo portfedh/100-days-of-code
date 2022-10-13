@@ -507,3 +507,10 @@ Something tells me Im going to have make a third version of the project using OO
 **Thoughts** Im starting to understand the power of OOP. Code is much cleaner than in the functional version (at least so far it has). I moved the cryptography script from the tests folder to the scripts folder and made another script to call the class and encrypt/decrypt all user files at rest. Its almost ready. I only need to call this second script in the initialization file for program and it will be finished. 
 
 [Cryptography scripts ready. ](https://github.com/portfedh/portfolio_grafana/commit/08da6c86c4ca322c1d07a649623aa59893c8245f)
+
+## Day 64: October 12, 2022
+**Today's Progress**:  Integrated cryptography to the worflow. Fully integrated feature. 
+
+**Thoughts** I finished integrating the cryptography script to the program. It now decryptes all files, uses them and the encrypts the files at closing. Next up, set up docker secrets.  
+
+[Cryptography scripts in production. ](https://github.com/portfedh/portfolio_grafana/commit/d40eb75a38993b91a87a4f595cd46dd3c59b4e2a)
