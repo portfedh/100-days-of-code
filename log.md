@@ -514,3 +514,10 @@ Something tells me Im going to have make a third version of the project using OO
 **Thoughts** I finished integrating the cryptography script to the program. It now decryptes all files, uses them and the encrypts the files at closing. Next up, set up docker secrets.  
 
 [Cryptography scripts in production. ](https://github.com/portfedh/portfolio_grafana/commit/d40eb75a38993b91a87a4f595cd46dd3c59b4e2a)
+
+## Day 65: October 14, 2022
+**Today's Progress**:  Merged Cryptography Branch. Created system design charts branch. 
+
+**Thoughts** Started the last phase of the project (for now) Documenting code, how its designed, how it works, a readme file etc. 
+
+[First System Design Charts. ](https://github.com/portfedh/portfolio_grafana/compare/Version2...system_design_charts)
