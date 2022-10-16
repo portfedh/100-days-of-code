@@ -521,3 +521,10 @@ Something tells me Im going to have make a third version of the project using OO
 **Thoughts** Started the last phase of the project (for now) Documenting code, how its designed, how it works, a readme file etc. 
 
 [First System Design Charts. ](https://github.com/portfedh/portfolio_grafana/compare/Version2...system_design_charts)
+
+## Day 66: October 15, 2022
+**Today's Progress**:  Updated Readme file. 
+
+**Thoughts** Started changing the readme file. Explaining to someone else how to use my code is an interesting experience. 
+
+[First update to readme file. ](https://github.com/portfedh/portfolio_grafana/commit/f245e616d05477fc30aeb535349d66a031efa6b0)
