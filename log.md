@@ -528,3 +528,11 @@ Something tells me Im going to have make a third version of the project using OO
 **Thoughts** Started changing the readme file. Explaining to someone else how to use my code is an interesting experience. 
 
 [First update to readme file. ](https://github.com/portfedh/portfolio_grafana/commit/f245e616d05477fc30aeb535349d66a031efa6b0)
+
+## Day 66: October 15, 2022
+**Today's Progress**:  Continued updating Readme file. 
+
+**Thoughts** As I write the file and imagine how someone else would use the program and setup his own files, I'm realizing I need to make some changes to make my code more reusable and cleaner. For example, i separated the check that finds what computer im using and executes the right venv into a separate file and added some comments. This way another user can just delete the file, change two lines of code and the script is ready to go. Found more changes like this. Ill be adding them shortly. 
+
+[New update to readme file. ](https://github.com/portfedh/portfolio_grafana/commit/d33d58de4d116ba43edb787965ab6f6380d1f6d4)
+[Separated computer check from main code. ](https://github.com/portfedh/portfolio_grafana/commit/57b023852ec93fccf57e4c168c7d0c55cf1d662f)
