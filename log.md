@@ -551,3 +551,10 @@ Something tells me Im going to have make a third version of the project using OO
 **Thoughts** Finished the readme file. I still need to add some images, but now back to the system design chart. 
 
 [Update to readme file. ](https://github.com/portfedh/portfolio_grafana/commit/c9b3d04dfdadffc4526ffa6cc9b62271ddae10b1)
+
+## Day 71: October 28, 2022
+**Today's Progress**:  Updated system design diagrams. 
+
+**Thoughts** I had to take a break, since work and personal life got in the way. Today was the first time I had chance to work on the project again. I was able to work for about 6 hours, to try to make up. Updated the design charts. General and system charts are done and now im working on the functions charts. Im almost done. Ill be very happy when this is ready. 
+
+[Update to diagrams ](https://github.com/portfedh/portfolio_grafana/commit/19b6383fde5e75fd78a4dbab891d8b9dfe524728)
