@@ -558,3 +558,11 @@ Something tells me Im going to have make a third version of the project using OO
 **Thoughts** I had to take a break, since work and personal life got in the way. Today was the first time I had chance to work on the project again. I was able to work for about 6 hours, to try to make up. Updated the design charts. General and system charts are done and now im working on the functions charts. Im almost done. Ill be very happy when this is ready. 
 
 [Update to diagrams ](https://github.com/portfedh/portfolio_grafana/commit/19b6383fde5e75fd78a4dbab891d8b9dfe524728)
+
+
+## Day 72: October 29, 2022
+**Today's Progress**:  Finished updating system design diagrams. 
+
+**Thoughts** I finished updating the program diagrams. Ill do a final check tomorrow before commiting and merging the branch. It was harder than I though, but now that its finally finished I feel it was worth it.
+
+[Diagrams, almost done ](https://github.com/portfedh/portfolio_grafana/commit/cb0ce97a4befc473f23e30a9be5088e6cf248051)
