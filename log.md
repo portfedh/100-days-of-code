@@ -566,3 +566,11 @@ Something tells me Im going to have make a third version of the project using OO
 **Thoughts** I finished updating the program diagrams. Ill do a final check tomorrow before commiting and merging the branch. It was harder than I though, but now that its finally finished I feel it was worth it.
 
 [Diagrams, almost done ](https://github.com/portfedh/portfolio_grafana/commit/cb0ce97a4befc473f23e30a9be5088e6cf248051)
+
+
+## Day 73: October 30, 2022
+**Today's Progress**:  Merged the system design diagrams branch. 
+
+**Thoughts** Finally finished with documentation. Ill spend a few days fixing code and then move on to practice changing my simpler scripts from functional to OOP scripts to get some OOP practice. Then I will probably spend some time changing my raspberry pi setup so my IoT devicees are displayed to the cloud instead of locally to be able to showcase the project. 
+
+[Merged System design diagrams branch ](https://github.com/portfedh/portfolio_grafana/commit/48899ce60d695c757f84d872f391d1f96907c4b2)
