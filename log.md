@@ -574,3 +574,11 @@ Something tells me Im going to have make a third version of the project using OO
 **Thoughts** Finally finished with documentation. Ill spend a few days fixing code and then move on to practice changing my simpler scripts from functional to OOP scripts to get some OOP practice. Then I will probably spend some time changing my raspberry pi setup so my IoT devicees are displayed to the cloud instead of locally to be able to showcase the project. 
 
 [Merged System design diagrams branch ](https://github.com/portfedh/portfolio_grafana/commit/48899ce60d695c757f84d872f391d1f96907c4b2)
+
+
+## Day 74: November 1, 2022
+**Today's Progress**:  Fixed two issues: Separated user config from main code. 
+
+**Thoughts** My main code had my personal configurations setupt to run directly. I separated them into another file and imported them to the main code. I also made an example configuration file and untracked my personal file. This way anyone can add their own users without having to change the main code. I also learnt how to use functions in bash script and import a bash script into another bash script. 
+
+[Separated personal config files from main code ](https://github.com/portfedh/portfolio_grafana/commit/771756081a4d237f2ef84a986e79f2d4f0dbd52e)
