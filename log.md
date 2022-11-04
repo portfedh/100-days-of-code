@@ -583,9 +583,20 @@ Something tells me Im going to have make a third version of the project using OO
 
 [Separated personal config files from main code ](https://github.com/portfedh/portfolio_grafana/commit/771756081a4d237f2ef84a986e79f2d4f0dbd52e)
 
-## Day 75: November 1, 2022
+## Day 75: November 2, 2022
 **Today's Progress**:  Created my first OOP Script. 
 
 **Thoughts** I modified the MergePDF file to make it an OOP script. This is the first OOP script I make outside a tutorial. Im very happy. The code looks a lot cleaner this way.. 
 
 [First OOP Script ](https://github.com/portfedh/mergePDF/commit/9fec843c70580479a82fc2cc15a2874f18803143)
+
+
+## Day 76: November 3, 2022
+**Today's Progress**:  Updated two of my scripts from functional to OOP. 
+
+**Thoughts** Getting my repetition on OOP. Things are still clunky but im starting to get used to the sintax of using OOP. Im sure it will become familiar soon. The code looks much cleaner this way. Im happy I took the time to learn this. 
+
+[Second OOP Script ](https://github.com/portfedh/mergePDF/commit/9fec843c70580479a82fc2cc15a2874f18803143)
+
+[Second OOP Script: Rate calculator ](https://github.com/portfedh/rate_calculator/commit/043ea94fd105f99ecba9bc4b80047ebf129c1470)
+[Third OOP Script: Net Rent ](https://github.com/portfedh/renta_neta_mx/commit/68e05a82d136b7320abc77496e8733c43698aaec)
