@@ -600,3 +600,11 @@ Something tells me Im going to have make a third version of the project using OO
 
 [Second OOP Script: Rate calculator ](https://github.com/portfedh/rate_calculator/commit/043ea94fd105f99ecba9bc4b80047ebf129c1470)
 [Third OOP Script: Net Rent ](https://github.com/portfedh/renta_neta_mx/commit/68e05a82d136b7320abc77496e8733c43698aaec)
+
+
+## Day 77: November 4, 2022
+**Today's Progress**:  Updated another script to OOP. Got stuck trying to get rid of if else statements.  
+
+**Thoughts** Converted another script to OOP. Im starting to get the hang of the basics. This time code did not clean up as much because I have a million if else statements in this script. I found a way to get rid of them using pandas, but I like that this script has no external dependencies so I decided against it. 
+
+[Fourth OOP Script ](https://github.com/portfedh/tax_effective_rate_mx/commit/e516bd6014114fe76297500b71ed5841b07996c3)
