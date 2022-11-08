@@ -608,3 +608,13 @@ Something tells me Im going to have make a third version of the project using OO
 **Thoughts** Converted another script to OOP. Im starting to get the hang of the basics. This time code did not clean up as much because I have a million if else statements in this script. I found a way to get rid of them using pandas, but I like that this script has no external dependencies so I decided against it. 
 
 [Fourth OOP Script ](https://github.com/portfedh/tax_effective_rate_mx/commit/e516bd6014114fe76297500b71ed5841b07996c3)
+
+## Day 78: November 6, 2022
+**Today's Progress**:  Updated another script to OOP.  
+
+**Thoughts** Converted another script to OOP. Im in San Diego, so Its a bit slow. 
+
+## Day 79: November 7, 2022
+**Today's Progress**:  Updated another script to OOP.  
+
+**Thoughts** Converted another script to OOP. Practiced creating and deleting new branches. Made my notes for git reset vs git revert.
