@@ -622,6 +622,13 @@ Something tells me Im going to have make a third version of the project using OO
 ## Day 80: November 12, 2022
 **Today's Progress**:  Updating a new script to OOP. Hardest one yet. It was a monster script before. .  
 
-**Thoughts** A previous project involved a monster script I made. I did it before using functions. All simply a large block of code. I hadn't gotten to refactoring it yet and though this the perfect opportunity. Its a monster, but its great. Im learning how to break it up, import classes from other files, use inheritance, use global variables etc. Its great practice. I also missed some days because I've been working in my next blog post. Its not technically coding so I skipped the days, but thats going really well to. Very happy to make progress. 
+**Thoughts** A previous project involved a larger script I made some months ago. I did it before I started using functions. Its all simply a large block of code. I hadn't gotten to refactoring it yet and though this the perfect opportunity. Its very long and perfect for this. Im learning how to break it up, import classes from other files, use inheritance, use global variables etc. Its great practice. I also missed some days because I've been working in my next blog post. Its not technically coding so I skipped the days, but thats going really well to. Very happy to make progress. 
 
 [Partial advance: FX Email in OOP ](https://github.com/portfedh/fx_email/commit/b40db746783edb91063425b0a722c67d2538f303)
+
+## Day 81: November 13, 2022
+**Today's Progress**:  Updating a new script to OOP. Partial progress. 
+
+**Thoughts** The code is looking much cleaner as I divide it into methods. I'm getting used to the way OOP acceses instance variable values, sprecially for pandas dataframes. Very happy with my progess. 
+
+[Partial advance: FX Email in OOP ](https://github.com/portfedh/fx_email/commit/e50ba441e4a4fd56c28f82e406c9645047713cca)
