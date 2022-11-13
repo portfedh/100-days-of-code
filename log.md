@@ -618,3 +618,10 @@ Something tells me Im going to have make a third version of the project using OO
 **Today's Progress**:  Updated another script to OOP.  
 
 **Thoughts** Converted another script to OOP. Practiced creating and deleting new branches. Made my notes for git reset vs git revert.
+
+## Day 80: November 12, 2022
+**Today's Progress**:  Updating a new script to OOP. Hardest one yet. It was a monster script before. .  
+
+**Thoughts** A previous project involved a monster script I made. I did it before using functions. All simply a large block of code. I hadn't gotten to refactoring it yet and though this the perfect opportunity. Its a monster, but its great. Im learning how to break it up, import classes from other files, use inheritance, use global variables etc. Its great practice. I also missed some days because I've been working in my next blog post. Its not technically coding so I skipped the days, but thats going really well to. Very happy to make progress. 
+
+[Partial advance: FX Email in OOP ](https://github.com/portfedh/fx_email/commit/b40db746783edb91063425b0a722c67d2538f303)
