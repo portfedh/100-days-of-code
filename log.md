@@ -632,3 +632,10 @@ Something tells me Im going to have make a third version of the project using OO
 **Thoughts** The code is looking much cleaner as I divide it into methods. I'm getting used to the way OOP acceses instance variable values, sprecially for pandas dataframes. Very happy with my progess. 
 
 [Partial advance: FX Email in OOP ](https://github.com/portfedh/fx_email/commit/e50ba441e4a4fd56c28f82e406c9645047713cca)
+
+## Day 82: November 14, 2022
+**Today's Progress**:  Updating a new script to OOP. Partial progress. 
+
+**Thoughts** Made some progress with pandas dataframes. Im having trouble diplaying objects data, but im sure Ill get used to this in a bit. I feel more and more confortable with classes each day. 
+
+[Partial advance: FX Email in OOP ](https://github.com/portfedh/fx_email/commit/be0b9488d750378092d050d7408c7b2fc2ebf4db)
