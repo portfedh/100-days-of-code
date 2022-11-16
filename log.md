@@ -624,18 +624,25 @@ Something tells me Im going to have make a third version of the project using OO
 
 **Thoughts** A previous project involved a larger script I made some months ago. I did it before I started using functions. Its all simply a large block of code. I hadn't gotten to refactoring it yet and though this the perfect opportunity. Its very long and perfect for this. Im learning how to break it up, import classes from other files, use inheritance, use global variables etc. Its great practice. I also missed some days because I've been working in my next blog post. Its not technically coding so I skipped the days, but thats going really well to. Very happy to make progress. 
 
-[Partial advance: FX Email in OOP ](https://github.com/portfedh/fx_email/commit/b40db746783edb91063425b0a722c67d2538f303)
+[Partial advance: FX Email in OOP 1](https://github.com/portfedh/fx_email/commit/b40db746783edb91063425b0a722c67d2538f303)
 
 ## Day 81: November 13, 2022
-**Today's Progress**:  Updating a new script to OOP. Partial progress. 
+**Today's Progress**:  Updating a new script to OOP. Partial progress 2. 
 
 **Thoughts** The code is looking much cleaner as I divide it into methods. I'm getting used to the way OOP acceses instance variable values, sprecially for pandas dataframes. Very happy with my progess. 
 
-[Partial advance: FX Email in OOP ](https://github.com/portfedh/fx_email/commit/e50ba441e4a4fd56c28f82e406c9645047713cca)
+[Partial advance: FX Email in OOP 2](https://github.com/portfedh/fx_email/commit/e50ba441e4a4fd56c28f82e406c9645047713cca)
 
 ## Day 82: November 14, 2022
-**Today's Progress**:  Updating a new script to OOP. Partial progress. 
+**Today's Progress**:  Updating a new script to OOP. Partial progress 3. 
 
 **Thoughts** Made some progress with pandas dataframes. Im having trouble diplaying objects data, but im sure Ill get used to this in a bit. I feel more and more confortable with classes each day. 
 
-[Partial advance: FX Email in OOP ](https://github.com/portfedh/fx_email/commit/be0b9488d750378092d050d7408c7b2fc2ebf4db)
+[Partial advance: FX Email in OOP 3](https://github.com/portfedh/fx_email/commit/be0b9488d750378092d050d7408c7b2fc2ebf4db)
+
+## Day 83: November 15, 2022
+**Today's Progress**:  Updating a new script to OOP. Partial progress 4. 
+
+**Thoughts** I was able to finish all the changes that had to do with OOP. It felt great to get through a tough problem today after not being able to solve it yesterday. Im also starting to understand more how the syntax work in OOP when you use objects inside objects. Feels hard to explain but when I practice It just starts to make sense. Very happy that im giving myself enough time to understand this paradigm. 
+
+[Partial advance: FX Email in OOP 4](https://github.com/portfedh/fx_email/commit/007940810db6deefd72ae6212b6445668c7aa6e0)
