@@ -653,3 +653,9 @@ Something tells me Im going to have make a third version of the project using OO
 **Thoughts** I finished refactoring my code to OOP after 5 days. Code is much cleaner now. Easier to understand, modify, expand. Although it works and im finished, during the process I got a few ideas of how I can extend the funcionality to the script. I also found that with OOP with a few tweaks I can use 90% of the same script to generate a new report. Im really liking this paradigm. 
 
 [FX Email in OOP finished](https://github.com/portfedh/fx_email/commit/bb9abdc1519713e2b2413e597618a3d20bfa613f)
+
+
+## Day 85: November 17, 2022
+**Today's Progress**:  Made minor corrections, separated my code into several scripts. Merged into main. . 
+
+**Thoughts** I cleaned up yesterday's code and made some minor adjustments. Since I can create new objects, I made my report better. Now instead of a monthly graph, the automated email report makes three different graphs, attaches them in an email and sends them. I just improved my report a lot with minimal code. Very happy. 
