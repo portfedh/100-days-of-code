@@ -646,3 +646,10 @@ Something tells me Im going to have make a third version of the project using OO
 **Thoughts** I was able to finish all the changes that had to do with OOP. It felt great to get through a tough problem today after not being able to solve it yesterday. Im also starting to understand more how the syntax work in OOP when you use objects inside objects. Feels hard to explain but when I practice It just starts to make sense. Very happy that im giving myself enough time to understand this paradigm. 
 
 [Partial advance: FX Email in OOP 4](https://github.com/portfedh/fx_email/commit/007940810db6deefd72ae6212b6445668c7aa6e0)
+
+## Day 84: November 16, 2022
+**Today's Progress**:  Finished updating my script to OOP. 
+
+**Thoughts** I finished refactoring my code to OOP after 5 days. Code is much cleaner now. Easier to understand, modify, expand. Although it works and im finished, during the process I got a few ideas of how I can extend the funcionality to the script. I also found that with OOP with a few tweaks I can use 90% of the same script to generate a new report. Im really liking this paradigm. 
+
+[FX Email in OOP finished](https://github.com/portfedh/fx_email/commit/bb9abdc1519713e2b2413e597618a3d20bfa613f)
