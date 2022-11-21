@@ -658,4 +658,15 @@ Something tells me Im going to have make a third version of the project using OO
 ## Day 85: November 17, 2022
 **Today's Progress**:  Made minor corrections, separated my code into several scripts. Merged into main. . 
 
-**Thoughts** I cleaned up yesterday's code and made some minor adjustments. Since I can create new objects, I made my report better. Now instead of a monthly graph, the automated email report makes three different graphs, attaches them in an email and sends them. I just improved my report a lot with minimal code. Very happy. 
+**Thoughts** I cleaned up yesterday's code and made some minor adjustments. Since I can create new objects, I made my report better. Now instead of a monthly graph, the automated email report makes three different graphs, attaches them in an email and sends them. I just improved my report a lot with minimal code. Very happy.
+
+
+## Day 86: November 21, 2022
+**Today's Progress**:  Updated readme docs. Finished my OOP Practice. Started LeetCode Exercices
+
+**Thoughts** Updated the documentation for my script. I feel like I´ve done enough OOP exercises for now. Im sure with time ill get more practice, but I feel like I have a good grasp of the basics. I feel like im ready start with web development and Javascript, but before that, I will try to move my current raspberry pi project to grafana web and InfluxDb cloud to be able to showcase it live. I hope its not too hard. 
+
+[Updated Documentation](https://github.com/portfedh/fx_email/commit/4f467fd764c40b7775dbed0a550593136bb05844)
+
+
+
