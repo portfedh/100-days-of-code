@@ -669,4 +669,4 @@ Something tells me Im going to have make a third version of the project using OO
 [Updated Documentation](https://github.com/portfedh/fx_email/commit/4f467fd764c40b7775dbed0a550593136bb05844)
 
 
-
+Tried exploring InfluxDB Cloud. I didnt really get it, but it was a first try. My current Raspberry Pi died, so I feel Its time to go for it. 
