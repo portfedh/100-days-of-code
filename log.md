@@ -669,4 +669,14 @@ Something tells me Im going to have make a third version of the project using OO
 [Updated Documentation](https://github.com/portfedh/fx_email/commit/4f467fd764c40b7775dbed0a550593136bb05844)
 
 
-Tried exploring InfluxDB Cloud. I didnt really get it, but it was a first try. My current Raspberry Pi died, so I feel Its time to go for it. 
+## Day 87: November 22, 2022
+**Today's Progress**:  Tried exploring InfluxDB Cloud.Started LeetCode Exercices
+
+**Thoughts** I unsuccessfully tried to use node red to write to InfuxDB Cloud. It was still a good first try. My current Raspberry Pi died, so I feel Its time to take on this project si I can showcase my project in the cloud. 
+
+## Day 88: November 24, 2022
+**Today's Progress**:  Started LeetCode Exercices, Reviewed notes on HTML and CSS.
+
+**Thoughts** I explored a bit more of LeetCode and now have a plan to do a problem every day. Ill do this untill I finish my second cycle of 100 Days of code and then review. I also went over my notes on HTML and CSS, in preparation to the front end learning path next year. Ill be cleaning everything up to have a good start next year. 
+
+
