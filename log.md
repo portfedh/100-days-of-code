@@ -677,6 +677,11 @@ Something tells me Im going to have make a third version of the project using OO
 ## Day 88: November 24, 2022
 **Today's Progress**:  Started LeetCode Exercices, Reviewed notes on HTML and CSS.
 
-**Thoughts** I explored a bit more of LeetCode and now have a plan to do a problem every day. Ill do this untill I finish my second cycle of 100 Days of code and then review. I also went over my notes on HTML and CSS, in preparation to the front end learning path next year. Ill be cleaning everything up to have a good start next year. 
+**Thoughts** I explored a bit more of LeetCode and now have a plan to do a problem every day. Ill do this untill I finish my second cycle of 100 Days of code and then review. I also went over my notes on HTML and CSS, in preparation to the front end learning path next year. Ill be cleaning everything up to have a good start next year.
+
+## Day 89: November 25, 2022
+**Today's Progress**:  More LeetCode Exercices, Reviewed notes on JavaScript.
+
+**Thoughts** I found that there are aproximatelly 600 'easy' leet code exercises, so Ill try to do two problems per day to finish level 1 in a year. Im moving my notes from notion to simple notes to have them in a backed up file. 
 
 
