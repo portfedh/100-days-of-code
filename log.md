@@ -684,4 +684,7 @@ Something tells me Im going to have make a third version of the project using OO
 
 **Thoughts** I found that there are aproximatelly 600 'easy' leet code exercises, so Ill try to do two problems per day to finish level 1 in a year. Im moving my notes from notion to simple notes to have them in a backed up file. 
 
+## Day 90: November 27, 2022
+**Today's Progress**:  More LeetCode Exercices, Reviewed notes on GitHub.
 
+**Thoughts** I got stuck in LeetCode already. I transcribed all my Git & Github essentials notes from Notion to a Text file. I find this easier to study, faster to open, and I can snyc my notes easily between laptops. Ill probably also add them to my blog soon. 
