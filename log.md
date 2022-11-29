@@ -688,3 +688,8 @@ Something tells me Im going to have make a third version of the project using OO
 **Today's Progress**:  More LeetCode Exercices, Reviewed notes on GitHub.
 
 **Thoughts** I got stuck in LeetCode already. I transcribed all my Git & Github essentials notes from Notion to a Text file. I find this easier to study, faster to open, and I can snyc my notes easily between laptops. Ill probably also add them to my blog soon. 
+
+## Day 91: November 28, 2022
+**Today's Progress**:  More LeetCode Exercices, Reviewed notes on Python.
+
+**Thoughts** Made another LeetCode practice problem. Reviewed some of my notes in head first python book. I also got some tasks at work that are excelent for automation. Im very happy about that. More code is comming. 
