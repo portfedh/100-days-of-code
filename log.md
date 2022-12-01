@@ -693,3 +693,8 @@ Something tells me Im going to have make a third version of the project using OO
 **Today's Progress**:  More LeetCode Exercices, Reviewed notes on Python.
 
 **Thoughts** Made another LeetCode practice problem. Reviewed some of my notes in head first python book. I also got some tasks at work that are excelent for automation. Im very happy about that. More code is comming. 
+
+## Day 92: November 30, 2022
+**Today's Progress**:  More LeetCode Exercices, Reviewed Python notes.
+
+**Thoughts** Made another LeetCode practice problem. Reviewed some of my notes in head first python book. Im migrating my email automation scripts from my raspberry pi 4 to my raspberry pi 0 so they have a dedicated space. Then I will reboot my raspberry pi 4 and use it to set up my IoT monitors so they publish data remoteley. Im organizing to close the year finishing what I started. Its been a good year. 
