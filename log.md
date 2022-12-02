@@ -698,3 +698,11 @@ Something tells me Im going to have make a third version of the project using OO
 **Today's Progress**:  More LeetCode Exercices, Reviewed Python notes.
 
 **Thoughts** Made another LeetCode practice problem. Reviewed some of my notes in head first python book. Im migrating my email automation scripts from my raspberry pi 4 to my raspberry pi 0 so they have a dedicated space. Then I will reboot my raspberry pi 4 and use it to set up my IoT monitors so they publish data remoteley. Im organizing to close the year finishing what I started. Its been a good year. 
+
+
+## Day 93: December 1, 2022
+**Today's Progress**:  LeetCode Exercices, Reviewed Python notes (flask).
+
+**Thoughts** Made another LeetCode practice problem. Reviewed some of my notes in head first python book for flask. Ill be uploading everything here to keep a record and to link it. 
+
+[Shuffle the Array](https://github.com/portfedh/leetcode/commit/1e3899d42856e089cd3806909856fc36e420df65)
