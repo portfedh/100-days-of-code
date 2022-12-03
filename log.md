@@ -706,3 +706,10 @@ Something tells me Im going to have make a third version of the project using OO
 **Thoughts** Made another LeetCode practice problem. Reviewed some of my notes in head first python book for flask. Ill be uploading everything here to keep a record and to link it. 
 
 [Shuffle the Array](https://github.com/portfedh/leetcode/commit/1e3899d42856e089cd3806909856fc36e420df65)
+
+## Day 94: December 2, 2022
+**Today's Progress**:  LeetCode Exercices, Reviewed Python notes (MariaDB).
+
+**Thoughts** Made another LeetCode practice problem. Reviewed some of my notes in head first python book for MariaDB. 
+
+[ 2011. Final Value of Variable After Performing Operations ](https://github.com/portfedh/leetcode/commit/8c8f26b60e73a9a1f344e7c02ed72c4ed662cc60)
