@@ -713,3 +713,8 @@ Something tells me Im going to have make a third version of the project using OO
 **Thoughts** Made another LeetCode practice problem. Reviewed some of my notes in head first python book for MariaDB. 
 
 [ 2011. Final Value of Variable After Performing Operations ](https://github.com/portfedh/leetcode/commit/8c8f26b60e73a9a1f344e7c02ed72c4ed662cc60)
+
+## Day 95: December 4, 2022
+**Today's Progress**:  LeetCode Exercices, Reviewed Learning notes.
+
+**Thoughts** Made another LeetCode practice problem. Reviewed some of my notes learning coding. Almost finished organizing and ready to start 2023. 
