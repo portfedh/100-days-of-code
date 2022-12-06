@@ -718,3 +718,8 @@ Something tells me Im going to have make a third version of the project using OO
 **Today's Progress**:  LeetCode Exercices, Reviewed Learning notes.
 
 **Thoughts** Made another LeetCode practice problem. Reviewed some of my notes learning coding. Almost finished organizing and ready to start 2023. 
+
+## Day 95: December 5, 2022
+**Today's Progress**:  LeetCode Exercices, Started again with headfirst JavaScript.
+
+**Thoughts** Made another LeetCode practice problem. Finished organizing and decided to start with the front end. Ill start with the HeadFirst JavaScript book first, then ill take a look at freecodecamp, codeAcademy, 100Devs and UdemyCourses. Lets see how much I can do of this in 2023. 
