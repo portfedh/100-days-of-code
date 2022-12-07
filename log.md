@@ -720,6 +720,13 @@ Something tells me Im going to have make a third version of the project using OO
 **Thoughts** Made another LeetCode practice problem. Reviewed some of my notes learning coding. Almost finished organizing and ready to start 2023. 
 
 ## Day 95: December 5, 2022
-**Today's Progress**:  LeetCode Exercices, Started again with headfirst JavaScript.
+**Today's Progress**:  LeetCode Exercices, Started again with headfirst JavaScript Introduction.
 
-**Thoughts** Made another LeetCode practice problem. Finished organizing and decided to start with the front end. Ill start with the HeadFirst JavaScript book first, then ill take a look at freecodecamp, codeAcademy, 100Devs and UdemyCourses. Lets see how much I can do of this in 2023. 
+**Thoughts** Made another LeetCode practice problem. Finished organizing and decided to start with the front end. Ill start with the HeadFirst JavaScript book first, then ill take a look at freecodecamp, codeAcademy, 100Devs and UdemyCourses. Lets see how much I can do of this in 2023.
+
+## Day 96: December 6, 2022
+**Today's Progress**:  LeetCode Exercices, Chapter 1, Headfirst JavaScript.
+
+**Thoughts** Made another LeetCode practice problem. I liked this one. Parking lots are a very simple system that can be easily automated. It would be very interesting to work on one for real. I also did a chapter on JavaScript. Im very happy becasue now that I have a solid Python background Im finding it much easier and im understanding much better everything. Cant wait to start mixing code with web pages. Very excited to see what can be done. 
+
+
