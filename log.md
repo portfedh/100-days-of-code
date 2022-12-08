@@ -729,4 +729,9 @@ Something tells me Im going to have make a third version of the project using OO
 
 **Thoughts** Made another LeetCode practice problem. I liked this one. Parking lots are a very simple system that can be easily automated. It would be very interesting to work on one for real. I also did a chapter on JavaScript. Im very happy becasue now that I have a solid Python background Im finding it much easier and im understanding much better everything. Cant wait to start mixing code with web pages. Very excited to see what can be done. 
 
+## Day 97: December 7, 2022
+**Today's Progress**:  LeetCode Exercices, Chapter 2 (Partial), Headfirst JavaScript.
+
+**Thoughts** Made another LeetCode practice problem. Did part of the second chapter of Headfirst Javascript. I wish I could learn this faster and skip to projects.
+
 
