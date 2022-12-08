@@ -734,4 +734,7 @@ Something tells me Im going to have make a third version of the project using OO
 
 **Thoughts** Made another LeetCode practice problem. Did part of the second chapter of Headfirst Javascript. I wish I could learn this faster and skip to projects.
 
+## Day 98: December 8, 2022
+**Today's Progress**:  LeetCode Exercices (fail), Chapter 2 (End), Headfirst JavaScript.
 
+**Thoughts** Made another LeetCode practice problem. Couldnt solve it. After time was up, I studied the solution. It was very interesting, but not nearly as cool as when I get it by myself. I continued with JavaScrpt. Now that I understand python its much much easier, but i need to get used to the currly braces. 
