@@ -738,3 +738,8 @@ Something tells me Im going to have make a third version of the project using OO
 **Today's Progress**:  LeetCode Exercices (fail), Chapter 2 (End), Headfirst JavaScript.
 
 **Thoughts** Made another LeetCode practice problem. Couldnt solve it. After time was up, I studied the solution. It was very interesting, but not nearly as cool as when I get it by myself. I continued with JavaScrpt. Now that I understand python its much much easier, but i need to get used to the currly braces. 
+
+## Day 99: December 16, 2022
+**Today's Progress**:  Made a Telegram Bot that sends me periodic reminders.
+
+**Thoughts** I had an important work week and a wedding, so I could not follow my daily coding habits for a whole week. I was able to code a simple Telegram Bot that sends me messages of when insurance an lease expirations are due for work. 
