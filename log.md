@@ -746,3 +746,11 @@ Something tells me Im going to have make a third version of the project using OO
 
 [ Telegram Bot](https://github.com/portfedh/telegram_bot_reminder)
 
+## Day 100: December 17, 2022
+**Today's Progress**:  Chapter 3 on HeadFirst Javascritpt
+
+**Thoughts** I made some progress on the book regarding JavaScript Chp3: Functions. Today is the end of 100 Days of code. 
+Im very happy I've been able to keep this up. I feel very far from being excellent, but I also feel like I understand a lot more than I did when I started.
+
+Im going to try to finish this book before the year is over so I can use 2023 to take the front end path and try to start coding professionaly by the end of the Year. Im very happy I chose to learn this, lets see where this takes me. 
+
