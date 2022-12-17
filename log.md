@@ -743,3 +743,6 @@ Something tells me Im going to have make a third version of the project using OO
 **Today's Progress**:  Made a Telegram Bot that sends me periodic reminders.
 
 **Thoughts** I had an important work week and a wedding, so I could not follow my daily coding habits for a whole week. I was able to code a simple Telegram Bot that sends me messages of when insurance an lease expirations are due for work. 
+
+[ Telegram Bot](https://github.com/portfedh/telegram_bot_reminder)
+
