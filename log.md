@@ -754,3 +754,8 @@ Im very happy I've been able to keep this up. I feel very far from being excelle
 
 Im going to try to finish this book before the year is over so I can use 2023 to take the front end path and try to start coding professionaly by the end of the Year. Im very happy I chose to learn this, lets see where this takes me. 
 
+
+## Day 101: December 18, 2022
+**Today's Progress**:  Chapter 4 (partial) on HeadFirst Javascritpt. Finished SQL Island
+
+**Thoughts** Ive been getting stuck on my SQL problems in Leet Code. I found a game to learn SQL called SQL Island. https://sql-island.informatik.uni-kl.de/ I finished the game and learnt a lot. I also did a bit of my head first javascript practice. I feel it was a good day. 
